@@ -6,6 +6,7 @@
                 "dist/**"
             ]
         },
-        "type-check": {}
+        "type-check": {},
+        "test": {}
     }
 }

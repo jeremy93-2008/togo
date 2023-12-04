@@ -8,7 +8,8 @@
     "type-check": "tsc",
     "build": "vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "echo 'No test for sandbox'"
   },
   "dependencies": {
     "react": "^18.2.0",
